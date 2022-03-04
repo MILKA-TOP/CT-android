@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="temp_toast">Clicked on user %n!"</string>
+    <string name="name_sample">Иванов Иван Петрович</string>
+    <string name="phone_sample">+7999999999</string>
+    <string name="contact_permission">Разрешите доступ к контактам в настройках и перезагрузите приложение</string>
+    <string name="sms_permission">Разрешите доступ к сообщениям в настройках</string>
+    <string name="sms_body">Контакт: %s\nНомер: %s</string>
+    <string name="share_title">Share contact</string>
+    <string name="error_contacts">Контактов не было найдено</string>
+    <string name="one_contact">Был найден 1 контакт</string>
+    <string name="more_contacts">Было найдено %s контактов</string>
+    <string name="phone_number">Phone number</string>
+</resources>

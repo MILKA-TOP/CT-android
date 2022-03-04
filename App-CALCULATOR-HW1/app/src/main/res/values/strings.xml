@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App-CALCULATOR-HW1</string>
+    <string name="test">TEST</string>
+    <string name="result">=</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="clear_one">DEL</string>
+    <string name="clear_all">C</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multiply">×</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="minus">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="dvide">÷</string>
+    <string name="BRACKET_LEVEL">BRACKET_LEVEL</string>
+</resources>

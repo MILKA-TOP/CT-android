@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unsplash images</string>
+    <string name="url_main">https://api.unsplash.com/search/photos?client_id=cne74hhhiqxVlKSz0Il6QSLATm44flH_d0Uo4V0rABQ&amp;query=android developing&amp;page=</string>
+    <string name="image_internet">Пожалуйста, включите доступ к сети Интернет</string>
+    <string name="app_internet">Пожалуйста, включите доступ к сети Интернет и перезагрузите приложение</string>
+    <string name="new_image">Загружено новое изображение</string>
+    <string name="old_image">Загружено сохранённое изображение</string>
+    <string name="fish_description">С другой стороны, высокое качество позиционных исследований играет определяющее значение для направлений прогрессивного развития.</string>
+    <string name="download_array">Происходит установка фотографий</string>
+    <string name="likes_count">2281335</string>
+    <string name="author">Georgiy Korneev</string>
+    <string name="internet_on_please">Пожалуйста, включите интернет для скачивания изображения</string>
+    <string name="loading">LOADING...</string>
+
+</resources>
