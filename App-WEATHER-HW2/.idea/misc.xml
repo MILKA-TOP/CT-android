@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/customborder.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_air_24.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_brightness_3_24.xml" value="0.26461538461538464" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_water_drop_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_waves_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_wb_cloudy_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_dark_lamp_background.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26461538461538464" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_light_lamp_background.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/drawable/ic_storm_background.xml" value="0.26461538461538464" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/font-v26/biorhyme_family.xml" value="0.2784615384615385" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/font/biorhyme_family.xml" value="0.2784615384615385" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout-land/activity_main_landscape.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout-v23/end_tool_bar.xml" value="0.2526041666666667" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/activity_main_landscape.xml" value="0.2526041666666667" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/activity_main_temp.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/day_weather.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/end_tool_bar.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/info_weather.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/now_weather.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/tool_bar.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/top_tool_bar.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/layout/week_weather.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/mipmap-anydpi-v26/ic_dark_lamp.xml" value="0.1453125" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26875" />
+        <entry key="..\:/AndroidStudioProjects/App-WEATHER-HW2/app/src/main/res/mipmap-anydpi-v26/ic_storm_round.xml" value="0.1453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

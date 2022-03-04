@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TopPanel">
+        <item name="fontFamily">@font/biorhyme_regular</item>
+        <item name="android:gravity">top|center_horizontal</item>
+        <item name="background">@style/Theme.AppWEATHERHW2</item>
+    </style>
+
+    <style name="Biorhyme">
+        <item name="fontFamily">@font/biorhyme_regular</item>
+    </style>
+
+    <style name="Biorhyme.LargeText">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="Biorhyme.MediumText">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+
+    <style name="SmallCell" parent="Biorhyme">
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="IncludeMargin">
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+    </style>
+
+    <style name="IncludeMargin.Top">
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+    <style name="Theme.AppWEATHERHW2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/customborder">
+
+    <TextView
+        android:id="@+id/monday"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/weather_26_09"
+        app:drawableTopCompat="@drawable/ic_baseline_wb_cloudy_24"
+        app:layout_constraintEnd_toStartOf="@+id/tuesday"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tuesday"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/weather_27_09"
+        app:drawableTopCompat="@drawable/ic_baseline_wb_sunny_24"
+        app:layout_constraintEnd_toStartOf="@+id/wednesday"
+        app:layout_constraintStart_toEndOf="@id/monday"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/wednesday"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/weather_28_09"
+        app:drawableTopCompat="@drawable/ic_baseline_wb_cloudy_24"
+        app:layout_constraintEnd_toStartOf="@+id/thursday"
+        app:layout_constraintStart_toEndOf="@id/tuesday"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/thursday"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/weather_29_09"
+        app:drawableTopCompat="@drawable/ic_baseline_wb_cloudy_24"
+        app:layout_constraintEnd_toStartOf="@+id/friday"
+        app:layout_constraintStart_toEndOf="@+id/wednesday"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/friday"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/weather_30_09"
+        app:drawableTopCompat="@drawable/ic_baseline_wb_sunny_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/thursday"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

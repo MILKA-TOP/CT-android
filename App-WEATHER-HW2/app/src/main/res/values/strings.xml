@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WEATHER</string>
+    <string name="wind_speed">9 mph</string>
+    <string name="humidity_info">67%</string>
+    <string name="water_temerature_info">8°С</string>
+    <string name="now_temperature">16°C</string>
+    <string name="city">St. Petersburg</string>
+    <string name="weather_type">Cloudy</string>
+    <string name="weather_26_09">26.09\n14°С</string>
+    <string name="weather_27_09">27.09\n12°С</string>
+    <string name="weather_28_09">28.09\n2°С</string>
+    <string name="weather_29_09">29.09\n-15°С</string>
+    <string name="weather_30_09">30.09\n-32°С</string>
+</resources>

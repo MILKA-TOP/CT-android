@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorPrimary">
+
+    <include
+        android:id="@+id/top_tool_bar"
+        layout="@layout/top_tool_bar"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <include
+        android:id="@+id/now_weather"
+        layout="@layout/now_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/top_tool_bar" />
+
+    <include
+        android:id="@+id/info_weather"
+        style="@style/IncludeMargin.Top"
+        layout="@layout/info_weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/now_weather" />
+
+    <include
+        style="@style/IncludeMargin.Top"
+        layout="@layout/week_weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/info_weather" />
+
+
+    <include
+        layout="@layout/end_tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

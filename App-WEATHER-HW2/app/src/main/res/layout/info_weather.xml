@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/info_weather"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/customborder">
+
+    <TextView
+        android:id="@+id/wind"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/wind_speed"
+        app:drawableTopCompat="@drawable/ic_baseline_air_24"
+        app:layout_constraintEnd_toStartOf="@+id/humidity"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/humidity"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/humidity_info"
+        app:drawableTopCompat="@drawable/ic_baseline_water_drop_24"
+        app:layout_constraintEnd_toStartOf="@id/water_temperature"
+        app:layout_constraintStart_toEndOf="@id/wind"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/water_temperature"
+        style="@style/SmallCell"
+        android:layout_width="0dp"
+        android:text="@string/water_temerature_info"
+        app:drawableTopCompat="@drawable/ic_baseline_waves_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/humidity"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
